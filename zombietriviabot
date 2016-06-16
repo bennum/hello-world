@@ -1,1 +1,2 @@
+git clone git@github.com:adams-sarah/hipgo.git
 heroku create -b https://github.com/kr/heroku-buildpack-go.git
